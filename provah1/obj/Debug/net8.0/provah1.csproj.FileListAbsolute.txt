@@ -1,0 +1,8 @@
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.csproj.AssemblyReference.cache
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.AssemblyInfoInputs.cache
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.AssemblyInfo.cs
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.csproj.CoreCompileInputs.cache
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gregorysantos\source\repos\provah1\provah1\obj\Debug\net8.0\provah1.MvcApplicationPartsAssemblyInfo.cache
